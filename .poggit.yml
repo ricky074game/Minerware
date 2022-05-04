@@ -3,7 +3,7 @@ build-by-default: true
 branches:
   - master
 projects:
-  Minerware:
+  Minerware:  
     path: ""
     libs:
       - src: CortexPE/Commando/Commando
